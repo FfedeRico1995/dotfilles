@@ -129,3 +129,4 @@ export PATH="$PATH:/opt/nvim-linux-x86_64/bin"
 # Generated for envman. Do not edit.
 [ -s "$HOME/.config/envman/load.sh" ] && source "$HOME/.config/envman/load.sh"
 alias dotfiles='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+source ~/pentest-tools/pentest-aliases.zsh
